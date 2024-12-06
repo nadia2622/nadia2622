@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## Contact me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:nadiatmbunan@gmail.com)](mailto:nadiatmbunan@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/n.tambun/)]([https://www.instagram.com/n.tambun/](https://www.instagram.com/n.tambun/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/n.tambun)](https://www.instagram.com/n.tambun/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/62882008729098)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadia-tambunan/)]((https://www.linkedin.com/in/nadia-tambunan/))
 

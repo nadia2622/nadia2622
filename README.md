@@ -12,7 +12,7 @@
 
 🏫 I'm a `student at Telkom University, Purwokerto Campus`
 
-🌱 I’m currently learning Java and JavaScript.
+🌱 I’m currently learning Java, JavaScript, and Dart.
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=nadia2622&show_icons=true&theme=github_dark)
